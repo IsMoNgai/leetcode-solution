@@ -6,6 +6,7 @@
         "string_view": "cpp",
         "initializer_list": "cpp",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "string": "cpp"
     }
 }
