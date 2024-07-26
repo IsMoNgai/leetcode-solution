@@ -1,3 +1,12 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <stack>
+#include <algorithm>
+#include <map>
+
+using namespace std;
+
 class Solution {
 public:
     string reverseWords(string s) {
